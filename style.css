@@ -3,7 +3,7 @@ html,body{
     padding: 0;
     box-sizing: border-box;
     font-size: 1rem;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Lato', sans-serif;
     color: #8c7d7d;
     height: 100%;
 }
@@ -151,7 +151,7 @@ html,body{
     background: transparent;
     position: relative;
     cursor: pointer;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .visit-btn:hover{
@@ -172,7 +172,7 @@ html,body{
     background: transparent;
     position: relative;
     cursor: pointer;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .contact-btn:hover{
@@ -191,7 +191,7 @@ html,body{
     font-size: 1rem;
     background: transparent;
     cursor: pointer;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Lato', sans-serif;
     float: right;
     margin-bottom:50px ;
     margin-right: 80px;
