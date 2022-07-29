@@ -182,3 +182,25 @@ html,body{
     color: #ffd000;
 
 }
+
+.lang-btn{
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 1rem 2rem 1rem;
+    font-size: 1rem;
+    background: transparent;
+    cursor: pointer;
+    font-family:'Times New Roman', Times, serif;
+    float: right;
+    margin-bottom:50px ;
+    margin-right: 80px;
+}
+
+.lang-btn:hover{
+    border: 1px solid #ffffff;
+    background: #cc011276 ;
+    transition: 0.3s;
+    color: #ffffff;
+
+}
